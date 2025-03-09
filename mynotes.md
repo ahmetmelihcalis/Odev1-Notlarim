@@ -1,0 +1,1 @@
+#Buraya Git/Github notlarımı tutacağım.
